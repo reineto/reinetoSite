@@ -1,0 +1,17 @@
+Assuma o papel de um especialista em desenvolvimento front-end com foco em React, Vite e Tailwind CSS.
+
+Estou com um problema em meu projeto onde as classes do Tailwind CSS não estão sendo aplicadas e o estilo não é renderizado na tela. Suspeito que seja um problema na configuração da instalação.
+
+Sua tarefa é analisar os arquivos de configuração do meu projeto para diagnosticar a causa do problema. Fornecerei o conteúdo dos seguintes arquivos:
+
+1.  `tailwind.config.js`
+2.  `postcss.config.js`
+3.  `src/index.css` (ou o arquivo CSS principal do projeto)
+4.  `src/main.jsx` (ou o ponto de entrada da aplicação React)
+5.  `package.json` (a seção de `dependencies` e `devDependencies`)
+
+Com base nesses arquivos, por favor, forneça:
+
+a) Uma análise passo a passo de cada arquivo, identificando potenciais erros de configuração, caminhos incorretos (especialmente na propriedade `content` do `tailwind.config.js`), ou omissões comuns.
+b) As versões corrigidas dos arquivos, caso encontre algum erro, com comentários explicando as alterações.
+c) Uma lista de verificação final com outros pontos a serem observados, como garantir que o servidor de desenvolvimento do Vite foi reiniciado após as alterações e que as classes do Tailwind estão sendo usadas corretamente nos componentes JSX/TSX.

@@ -1,5 +1,4 @@
-}
-javascript
+
 // tailwind.config.js
 /** @type {import('tailwindcss').Config} */
 export default {
@@ -11,12 +10,4 @@ export default {
     extend: {},
   },
   plugins: [],
-}
-javascript
-// postcss.config.js
-export default {
-  plugins: {
-    tailwindcss: {},
-    autoprefixer: {},
-  },
 }

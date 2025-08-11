@@ -17,7 +17,7 @@ const HeroSection = () => (
             <div className="hero-video-panel w-full md:w-1/2 h-1/2 md:h-full relative">
                 <div className="absolute inset-0 bg-black overflow-hidden">
                     <video autoPlay loop muted playsInline className="absolute z-0 w-auto min-w-full min-h-full max-w-none object-cover">
-                        <source src="https://videos.pexels.com/video-files/853875/853875-hd.mp4" type="video/mp4" />
+                        <source src="https://www.youtube.com/watch?v=9-8qXuk2LM8" type="video/mp4" />
                     </video>
                 </div>
             </div>
